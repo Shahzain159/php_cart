@@ -145,6 +145,10 @@ if(isset($_GET["action"]))
 		</div>
 	</div>
 	<br />
+
+	<?php
+	echo "PHP CART REPO 2";
+	?>
 	</body>
 </html>
 
