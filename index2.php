@@ -147,7 +147,7 @@ if(isset($_GET["action"]))
 	<br />
 
 	<?php
-	echo "PHP CART REPO 2";
+	echo "PHP CART REPO 2 CHANGES APPREARED";
 	?>
 	</body>
 </html>
